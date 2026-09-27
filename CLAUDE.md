@@ -22,3 +22,7 @@ As of this file's creation the repository is empty — no commits, no `README.md
 - Develop on the branch specified by the task (currently `claude/add-claude-documentation-9LUWw`); do not push directly to `main`.
 - Open a draft pull request after the first push.
 - Because the audience for every change is "anyone viewing the GitHub profile," treat `README.md` edits as user-visible content changes and preview the Markdown before committing when possible.
+
+## Skills
+
+- The **TypeSafe** plugin (`typesafe@typesafe-ai`, from the `typesafe-ai/skills` marketplace) is enabled for this project via `.claude/settings.json`. Use its `typesafe-ai` skill when work here involves AI-powered features (routing, ranking, extraction, verification, typed judgments). Its live docs at https://docs.typesafe.ai are the source of truth.
